@@ -1,6 +1,6 @@
 Authors:
-Joe Bloggs
-David Lunt
+Joe Bloggs University of the World
+David Lunt University of Manchester
 
 Title:
 Model-Measurement intercomparison of biogenic SOA in west Africa
