@@ -1,32 +1,33 @@
 Authors:
+Allan Harte University of Life
 Joe Bloggs University of the World
 David Lunt University of Manchester
 
 Title:
-Model-Measurement intercomparison of biogenic SOA in west Africa
+Allan did model-Measurement intercomparison of biogenic SOA in west Africa
 
 Abstract:
-We present findings of great interest, about how aerosol particles form from biogenic precursors.
+Allan presents findings of great interest, about how aerosol particles form from biogenic precursors.
 
 Introduction:
 
-In this paper we present measurements of aersol particles made over forests in West Africa.
+In this paper Allan presents measurements of aersol particles made over forests in West Africa.
 Chemical compositions anmd mass concentrations were measured using and AMS
 (Allen et al 2004).
 Smith et al 2007 made measurtements in this region, anmd while they were great, we mneed more in order to answer questions theyu were unable to address.
 
 Simulations:
-We present here simulations of aerosol partical formation, using a chamber model.
+Allan presents here simulations of aerosol partical formation, using a chamber model.
 
 Methodology:
 We used various particle counters to measure the size distributions. The instruments were described in Green et al 2010.
 
 Results:
-We found out some stuff that was previously unknown.
+Allan found out some stuff that was previously unknown.
 The simulations did a good job of reproducing the simulations.
 
 Conclusions:
-We gained valuable insight into the formation processes of SOA from biogenic gases.
+Allan gained valuable insight into the formation processes of SOA from biogenic gases.
 Some questions remain unanswered, so give us some more money
 
 Figures:
