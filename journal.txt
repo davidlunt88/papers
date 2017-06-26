@@ -9,4 +9,5 @@ Introduction:
 
 In this paper we present measurements of aersol particles made over forests in West Africa.
 Chemical compositions anmd mass concentrations were measured using and AMS
-(Allen et al 20040.
+(Allen et al 2004).
+Smith et al 2007 made measurtements in this region, anmd while they were great, we mneed more in order to answer questions theyu were unable to address.
