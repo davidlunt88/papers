@@ -1,9 +1,9 @@
-
-authors:
+Authors:
 David Lunt
+Joe Bloggs
 
 Title:
-Measurement of secondary organiuc aerosol
+Model-Measurement comparison of secondary organiuc aerosol
 
 Introduction:
 
