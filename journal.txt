@@ -3,7 +3,7 @@ authors:
 David Lunt
 
 Title:
-Measurement of secondary organiuc aerosol
+Measurements of biogenic SOA in west Africa
 
 Introduction:
 
