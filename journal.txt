@@ -7,4 +7,6 @@ Measurement of secondary organiuc aerosol
 
 Introduction:
 
-In this paper we present measurements of....
+In this paper we present measurements of aersol particles made over forests in West Africa.
+Chemical compositions anmd mass concentrations were measured using and AMS
+(Allen et al 20040.
