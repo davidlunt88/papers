@@ -11,3 +11,6 @@ In this paper we present measurements of aersol particles made over forests in W
 Chemical compositions anmd mass concentrations were measured using and AMS
 (Allen et al 2004).
 Smith et al 2007 made measurtements in this region, anmd while they were great, we mneed more in order to answer questions theyu were unable to address.
+
+Simulations:
+We present here simulations of aerosol partical formation, using a chamber model.
