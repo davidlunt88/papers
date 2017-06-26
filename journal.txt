@@ -14,3 +14,6 @@ Smith et al 2007 made measurtements in this region, anmd while they were great, 
 
 Simulations:
 We present here simulations of aerosol partical formation, using a chamber model.
+
+Methodology:
+We used various particle counters to measure the size distributions. The instruments were described in Green et al 2010.
